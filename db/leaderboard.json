@@ -1,0 +1,202 @@
+[
+  {
+    "team": "Atlético Bucaramanga",
+    "points": "4",
+    "gamesPlayed": "2",
+    "wins": "1",
+    "draws": "1",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Nacional",
+    "points": "4",
+    "gamesPlayed": "2",
+    "wins": "1",
+    "draws": "1",
+    "losses": "0",
+    "goals": "1",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Chicó",
+    "points": "3",
+    "gamesPlayed": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Tolima",
+    "points": "3",
+    "gamesPlayed": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Unión Magdalena",
+    "points": "3",
+    "gamesPlayed": "1",
+    "wins": "1",
+    "draws": "0",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Envigado",
+    "points": "2",
+    "gamesPlayed": "2",
+    "wins": "0",
+    "draws": "2",
+    "losses": "0",
+    "goals": "1",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Rionegro Águilas",
+    "points": "2",
+    "gamesPlayed": "2",
+    "wins": "0",
+    "draws": "2",
+    "losses": "0",
+    "goals": "1",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Santa Fe",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "2"
+  },
+  {
+    "team": "Jaguares FC",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "2",
+    "goalsAllowed": "2"
+  },
+  {
+    "team": "Junior",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "1",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "La Equidad",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "1",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Deportivo Pereira",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "0",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Millonarios",
+    "points": "1",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "1",
+    "losses": "0",
+    "goals": "0",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Deportivo Cali",
+    "points": "0",
+    "gamesPlayed": "0",
+    "wins": "0",
+    "draws": "0",
+    "losses": "0",
+    "goals": "0",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Pasto",
+    "points": "0",
+    "gamesPlayed": "0",
+    "wins": "0",
+    "draws": "0",
+    "losses": "0",
+    "goals": "0",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "Medellín",
+    "points": "0",
+    "gamesPlayed": "0",
+    "wins": "0",
+    "draws": "0",
+    "losses": "0",
+    "goals": "0",
+    "goalsAllowed": "0"
+  },
+  {
+    "team": "América de Cali",
+    "points": "0",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goals": "1",
+    "goalsAllowed": "2"
+  },
+  {
+    "team": "Once Caldas",
+    "points": "0",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goals": "0",
+    "goalsAllowed": "1"
+  },
+  {
+    "team": "Huila",
+    "points": "0",
+    "gamesPlayed": "2",
+    "wins": "0",
+    "draws": "0",
+    "losses": "2",
+    "goals": "2",
+    "goalsAllowed": "4"
+  },
+  {
+    "team": "Alianza",
+    "points": "0",
+    "gamesPlayed": "1",
+    "wins": "0",
+    "draws": "0",
+    "losses": "1",
+    "goals": "0",
+    "goalsAllowed": "2"
+  }
+]
