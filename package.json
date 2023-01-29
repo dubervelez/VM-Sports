@@ -1,0 +1,12 @@
+{
+  "name": "proyecto-vm-deportes",
+  "version": "1.0.0",
+  "description": " page about information sports",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Duberney Velez Moreno",
+  "license": "ISC"
+}
