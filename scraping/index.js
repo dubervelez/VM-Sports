@@ -16,7 +16,6 @@ const getData = $('table tbody tr').each((index, el) =>{
 	if (index < 20) {
 		const team = $(el).find('.nombre-equipo').text()
 		const tableData = $(el).find('td').text()
-		
 		for (const i in tableData) {
 			if (tableData[i] !== " " && itemData.length < 7) {
 				itemData.push(tableData[i])
@@ -25,13 +24,13 @@ const getData = $('table tbody tr').each((index, el) =>{
 	
 		leaderboard = [...leaderboard, {
 			team: team,
-			points: itemData[0],
-			gamesPlayed: itemData[1],
-			wins:  itemData[2],
-			draws:  itemData[3],
-			losses:  itemData[4],
-			goals:  itemData[5],
-			goalsAllowed:  itemData[6], 
+			points: Number(itemData[0]),
+			gamesPlayed: Number(itemData[1]),
+			wins:  Number(itemData[2]),
+			draws:  Number(itemData[3]),
+			losses:  Number(itemData[4]),
+			goals:  Number(itemData[5]),
+			goalsAllowed:  Number(itemData[6]), 
 		 }]
 		itemData = []
 	}
