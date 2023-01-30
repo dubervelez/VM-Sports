@@ -20,6 +20,7 @@ jobs:
         with:
           node-version: 16
       - run: |
+          npm install
           node scraping/index.js
           git config user.name dubervelez
           git config user.email duberneyvelez11@gmail.com
