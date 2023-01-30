@@ -5,20 +5,21 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "dev": "nodemon api/app.js",
+    "start": "node api/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Duberney Velez Moreno",
   "license": "ISC",
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
+    "express": "4.18.2",
     "nodemon": "2.0.20"
   },
   "devDependencies": {
     "standard": "17.0.0"
   },
   "eslintConfig": {
-      "extends": "standard"
-    }
-  
+    "extends": "standard"
+  }
 }
