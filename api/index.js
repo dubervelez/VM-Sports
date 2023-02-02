@@ -1,9 +1,9 @@
 import express from "express";
 import leaderboard from '../db/leaderboard.json' assert { type: 'json' }  
-
+import Cors from 'cors'
 
 const app =  express()
-
+app.use(Cors())
 //
 app.get('/', (req, res)=>{
     res.json([
