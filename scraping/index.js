@@ -4,12 +4,15 @@ import path from 'node:path'
 
 
 const URL = 'https://colombia.as.com/resultados/futbol/colombia_i/clasificacion/'
-const response = await fetch(URL)
-const html = await response.text()
-const $ = cheerio.load(html)
+const scrape = async (url)=>{
+	const response = await fetch(url)
+	const html = await response.text()
+	return cheerio.load(html)	
+}
 
 
 
+const $ = await scrape(URL)
 let leaderboard = []
 const getData = $('table tbody tr').each((index, el) =>{
 	let itemData = []
