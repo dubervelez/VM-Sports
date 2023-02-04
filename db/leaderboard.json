@@ -1,5 +1,25 @@
 [
   {
+    "team": "Chicó",
+    "points": 6,
+    "gamesPlayed": 2,
+    "wins": 2,
+    "draws": 0,
+    "losses": 0,
+    "goals": 3,
+    "goalsAllowed": 0
+  },
+  {
+    "team": "Tolima",
+    "points": 4,
+    "gamesPlayed": 2,
+    "wins": 1,
+    "draws": 1,
+    "losses": 0,
+    "goals": 3,
+    "goalsAllowed": 2
+  },
+  {
     "team": "Atlético Bucaramanga",
     "points": 4,
     "gamesPlayed": 2,
@@ -20,14 +40,14 @@
     "goalsAllowed": 0
   },
   {
-    "team": "Chicó",
+    "team": "América de Cali",
     "points": 3,
-    "gamesPlayed": 1,
+    "gamesPlayed": 2,
     "wins": 1,
     "draws": 0,
-    "losses": 0,
-    "goals": 2,
-    "goalsAllowed": 0
+    "losses": 1,
+    "goals": 5,
+    "goalsAllowed": 2
   },
   {
     "team": "Millonarios",
@@ -40,24 +60,24 @@
     "goalsAllowed": 2
   },
   {
-    "team": "Tolima",
+    "team": "Deportivo Pereira",
     "points": 3,
-    "gamesPlayed": 1,
+    "gamesPlayed": 2,
     "wins": 1,
     "draws": 0,
-    "losses": 0,
-    "goals": 2,
-    "goalsAllowed": 1
+    "losses": 1,
+    "goals": 4,
+    "goalsAllowed": 4
   },
   {
     "team": "Unión Magdalena",
     "points": 3,
-    "gamesPlayed": 1,
+    "gamesPlayed": 2,
     "wins": 1,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "goals": 2,
-    "goalsAllowed": 1
+    "goalsAllowed": 5
   },
   {
     "team": "Junior",
@@ -100,16 +120,6 @@
     "goalsAllowed": 2
   },
   {
-    "team": "Jaguares FC",
-    "points": 1,
-    "gamesPlayed": 1,
-    "wins": 0,
-    "draws": 1,
-    "losses": 0,
-    "goals": 2,
-    "goalsAllowed": 2
-  },
-  {
     "team": "Medellín",
     "points": 1,
     "gamesPlayed": 1,
@@ -128,6 +138,26 @@
     "losses": 0,
     "goals": 1,
     "goalsAllowed": 1
+  },
+  {
+    "team": "Jaguares FC",
+    "points": 1,
+    "gamesPlayed": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goals": 2,
+    "goalsAllowed": 3
+  },
+  {
+    "team": "Once Caldas",
+    "points": 1,
+    "gamesPlayed": 2,
+    "wins": 0,
+    "draws": 1,
+    "losses": 1,
+    "goals": 1,
+    "goalsAllowed": 2
   },
   {
     "team": "Deportivo Cali",
@@ -150,46 +180,6 @@
     "goalsAllowed": 0
   },
   {
-    "team": "Deportivo Pereira",
-    "points": 0,
-    "gamesPlayed": 1,
-    "wins": 0,
-    "draws": 0,
-    "losses": 1,
-    "goals": 2,
-    "goalsAllowed": 3
-  },
-  {
-    "team": "América de Cali",
-    "points": 0,
-    "gamesPlayed": 1,
-    "wins": 0,
-    "draws": 0,
-    "losses": 1,
-    "goals": 1,
-    "goalsAllowed": 2
-  },
-  {
-    "team": "Once Caldas",
-    "points": 0,
-    "gamesPlayed": 1,
-    "wins": 0,
-    "draws": 0,
-    "losses": 1,
-    "goals": 0,
-    "goalsAllowed": 1
-  },
-  {
-    "team": "Huila",
-    "points": 0,
-    "gamesPlayed": 2,
-    "wins": 0,
-    "draws": 0,
-    "losses": 2,
-    "goals": 2,
-    "goalsAllowed": 4
-  },
-  {
     "team": "Alianza",
     "points": 0,
     "gamesPlayed": 1,
@@ -198,5 +188,15 @@
     "losses": 1,
     "goals": 0,
     "goalsAllowed": 2
+  },
+  {
+    "team": "Huila",
+    "points": 0,
+    "gamesPlayed": 3,
+    "wins": 0,
+    "draws": 0,
+    "losses": 3,
+    "goals": 3,
+    "goalsAllowed": 6
   }
 ]
